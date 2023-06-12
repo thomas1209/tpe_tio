@@ -1,0 +1,15 @@
+<table>
+    <thead>
+        <tr>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Cilindraje</th>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        {foreacd>
+        </tr>
+        {/foreach}
+    </tbody>
+</table>
