@@ -46,3 +46,57 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+CREATE TABLE `motos` (
+  `marca` varchar(180) NOT NULL,
+  `modelo` int(250) NOT NULL,
+  `cilindraje` int(250) NOT NULL,
+  `nombre` varchar(250) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
