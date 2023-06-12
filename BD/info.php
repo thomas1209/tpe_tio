@@ -5,7 +5,7 @@
         <th>Marca</th>
         <th>Modelo</th>
         <th>Cilindraje</th>
-        <th>Nombre</th>
+        <th>Nombe</th>
     </tr>
 </thead>
 <tbody>
